@@ -135,3 +135,6 @@ por el record syntax para saber la hora-}
 
 persEsMayor :: Pers -> Bool
 persEsMayor = (18<=).edadPers
+
+
+

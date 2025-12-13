@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "integradorAlumnos:lib"
+
+    - path: "./test"
+      component: "integradorAlumnos:test:integradorAlumnos-test"
