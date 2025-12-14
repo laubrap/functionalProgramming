@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "Recursion:lib"
+
+    - path: "./test"
+      component: "Recursion:test:Recursion-test"
