@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "superiorOrderFunctions:lib"
+
+    - path: "./test"
+      component: "superiorOrderFunctions:test:superiorOrderFunctions-test"

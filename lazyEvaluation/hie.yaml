@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "lazyEvaluation:lib"
+
+    - path: "./test"
+      component: "lazyEvaluation:test:lazyEvaluation-test"
