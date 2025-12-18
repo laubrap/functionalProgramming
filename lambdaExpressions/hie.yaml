@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "lambdaExpressions:lib"
+
+    - path: "./test"
+      component: "lambdaExpressions:test:lambdaExpressions-test"
