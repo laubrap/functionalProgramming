@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialGranDT:lib"
+
+    - path: "./test"
+      component: "parcialGranDT:test:parcialGranDT-test"
