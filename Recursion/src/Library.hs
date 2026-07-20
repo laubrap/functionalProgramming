@@ -63,3 +63,7 @@ maximo (x:y:ys)
     | x > y     = maximo (x:ys)
     | otherwise = maximo (y:ys)
 
+reversa :: [a] -> [a]
+reversa [] = []
+reversa (x:xs) = reversa xs ++ [x] {-no usamos x solo ya que seria un elemento suelto-}
+
