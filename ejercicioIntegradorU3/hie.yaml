@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ejercicioIntegradorU3:lib"
+
+    - path: "./test"
+      component: "ejercicioIntegradorU3:test:ejercicioIntegradorU3-test"
