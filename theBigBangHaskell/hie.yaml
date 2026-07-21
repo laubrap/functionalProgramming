@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "theBigBangHaskell:lib"
+
+    - path: "./test"
+      component: "theBigBangHaskell:test:theBigBangHaskell-test"
