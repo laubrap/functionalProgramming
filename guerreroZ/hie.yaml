@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "guerreroZ:lib"
+
+    - path: "./test"
+      component: "guerreroZ:test:guerreroZ-test"
